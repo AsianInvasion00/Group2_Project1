@@ -408,7 +408,6 @@ LP002305,Female,No,0,Graduate,No,4547,$115.00 ,360,1,Semiurban,Y
 LP002308,Male,Yes,0,Not Graduate,No,2167,$115.00 ,360,1,Urban,Y
 LP002314,Female,No,0,Not Graduate,No,2213,$66.00 ,360,1,Rural,Y
 LP002315,Male,Yes,1,Graduate,No,8300,$152.00 ,300,0,Semiurban,N
-LP002317,Male,Yes,3+,Graduate,No,81000,$360.00 ,360,0,Rural,N
 LP002318,Female,No,1,Not Graduate,Yes,3867,$62.00 ,360,1,Semiurban,N
 LP002319,Male,Yes,0,Graduate,,6256,$160.00 ,360,,Urban,Y
 LP002328,Male,Yes,0,Not Graduate,No,6096,$218.00 ,360,0,Rural,N
